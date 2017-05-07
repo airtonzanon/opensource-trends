@@ -1,0 +1,8 @@
+{
+  "name": "Open Source Github Bot",
+  "description": "It give to me a list of repos to a semana open source .",
+  "image": "heroku/python",
+  "repository": "https://github.com/airtonzanon/opensource-trends",
+  "keywords": ["python"]
+}
+
